@@ -1,13 +1,19 @@
+<!-- ================= HERO ================= -->
+
 <p align="center">
-  <img src="assets/hero.png" alt="Shaikh Nehal GitHub Profile" width="100%"/>
+  <img src="assets/hero.png" width="100%" alt="Shaikh Nehal"/>
 </p>
 
-<h1 align="center">Shaikh Nehal</h1>
+<h1 align="center">💜 Shaikh Nehal</h1>
 
 <p align="center">
-  💻 Aspiring Full-Stack Developer &nbsp; • &nbsp;
-  🤖 AI Enthusiast &nbsp; • &nbsp;
+  💻 Full-Stack Developer &nbsp;•&nbsp;
+  🤖 AI Enthusiast &nbsp;•&nbsp;
   🎨 Graphic Designer
+</p>
+
+<p align="center">
+  <b>Building modern web experiences & AI-powered projects ✨</b>
 </p>
 
 <p align="center">
@@ -18,19 +24,14 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=light"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8B7BD8&style=for-the-badge"/>
-</p>
+---
 
-<br>
-
+## 👨‍💻 About Me
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
-
-## 📒 About Me
 
 🧑‍💻 Building modern web experiences & AI-powered projects
 
@@ -38,7 +39,7 @@
 
 🤖 Exploring **AI** and how it fits into real applications
 
-🎨 Designing logos, posters, photo & video edits and **UI/UX**
+🎨 Designing logos, posters, photo/video edits & **UI/UX**
 
 🏅 Certified in **Artificial Intelligence**
 
@@ -48,111 +49,53 @@
 
 <td width="45%" align="center">
 
-<img src="assets/nehal.jpg"
-     alt="Shaikh Nehal"
-     width="330"
-     style="border-radius:20px;"/>
+<img src="assets/nehal.jpg" width="300" alt="Shaikh Nehal"/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
+## 🛠️ Skills
 
-## 🛠️ My Tech Stack
+| 💻 Development | 🤖 AI | 🎨 Design |
+|---|---|---|
+| HTML | Artificial Intelligence | Figma |
+| CSS | AI-powered Apps | Photoshop |
+| JavaScript | AI Tools | Illustrator |
+| React | AI Projects | UI/UX |
+| Node.js | — | Graphic Design |
+| MongoDB | — | Photo & Video Editing |
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<br>HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-<br>CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-<br>JavaScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<br>React
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<br>Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<br>MongoDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br>Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>GitHub
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-
-## 🎨 Design Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
-</p>
-
-<p>
-  🎨 Graphic Design &nbsp; • &nbsp;
-  🖌️ UI/UX Design &nbsp; • &nbsp;
-  🖼️ Poster Design &nbsp; • &nbsp;
-  🎬 Photo & Video Editing
-</p>
-
-<br>
+---
 
 ## ⭐ Featured Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 CareerCraft AI
 
-AI-powered career companion and portfolio assistant.
+AI-powered career companion & portfolio assistant.
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&bg_color=F5F0FF&title_color=7C5CD6&text_color=555555&icon_color=8B7BD8&border_color=DDD6FE"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=transparent&border_color=8B7BD8"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ☕ Brew & Bloom Café
 
-Responsive café website with modern UI design.
+Responsive café website with modern design.
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&bg_color=F5F0FF&title_color=7C5CD6&text_color=555555&icon_color=8B7BD8&border_color=DDD6FE"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=transparent&border_color=8B7BD8"/>
 </a>
 
 </td>
@@ -160,7 +103,7 @@ Responsive café website with modern UI design.
 </tr>
 </table>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
@@ -172,16 +115,15 @@ Responsive café website with modern UI design.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=8B7BD8&fire=8B7BD8&currStreakLabel=7C5CD6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
 </p>
 
-<br>
-
+---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-8B7BD8?style=for-the-badge&logo=github&logoColor=white"/>
@@ -201,23 +143,17 @@ Responsive café website with modern UI design.
 
 </p>
 
-<br>
-
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B7BD8&center=true&vCenter=true&width=500&height=80&lines=Let's+build+something+amazing+%F0%9F%92%9C;Turning+ideas+into+websites+%F0%9F%92%BB;Code+%E2%80%A2+Design+%E2%80%A2+AI+%E2%9C%A8"/>
-
-</p>
-
-<br>
+---
 
 <p align="center">
 
 ### 💜 Better Code • Bigger Dreams
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B7BD8&center=true&vCenter=true&width=500&height=60&lines=Let's+build+something+amazing+%F0%9F%92%9C;Turning+ideas+into+websites+%F0%9F%92%BB;Code+%E2%80%A2+Design+%E2%80%A2+AI+%E2%9C%A8"/>
 
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7BD8,50:C4B5FD,100:DDD6FE&height=120&section=footer"/>
 </p>
+  
