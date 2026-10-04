@@ -1,5 +1,4 @@
 
-  <!-- Header banner (generated, no image files needed) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7BD8,50:A78BFA,100:DDD6FE&height=220&section=header&text=Shaikh%20Nehal&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Graphic%20Designer&descSize=17&descAlignY=60&animation=fadeIn"/>
 </p>
@@ -16,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hey, I'm **Nehal** 👋 an 18-year-old developer and designer from Islamabad.
 
@@ -24,11 +23,11 @@ Hey, I'm **Nehal** 👋 an 18-year-old developer and designer from Islamabad.
 - 🤖 Exploring how **AI** fits into real-world apps
 - 🎨 I design logos, posters, UI/UX and edit photos & videos
 - 🏅 Certified in **Artificial Intelligence**
-- ⚡ My motto: *one small coding step at a time* 💜
+- ⚡ My motto: *one small coding step at a time* 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github&theme=light"/>
@@ -105,7 +104,7 @@ Responsive café website with a clean, modern design.
 </p>
 
 <p align="center">
-  <b>💜 Better Code • Bigger Dreams</b>
+  <b> Better Code • Bigger Dreams</b>
 </p>
 
 <p align="center">
