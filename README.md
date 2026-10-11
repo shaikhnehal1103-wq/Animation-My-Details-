@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7BD8,50:A78BFA,100:DDD6FE&height=220&section=header&text=Shaikh%20Nehal&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Graphic%20Designer&descSize=17&descAlignY=60&animation=fadeIn"/>
 </p>
@@ -15,51 +14,40 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-Hey, I'm **Nehal** 👋 an 18-year-old developer and designer from Islamabad.
+Hey, I'm **Nehal** 👋 an 18-year-old developer and designer based in Islamabad. I love building digital products that blend clean code with creative visual design.
 
-- 🌱 Currently levelling up my **JavaScript & React**
-- 🤖 Exploring how **AI** fits into real-world apps
-- 🎨 I design logos, posters, UI/UX and edit photos & videos
+- 🌱 Currently levelling up my **JavaScript & React** skills
+- 🤖 Exploring how **AI** integrates into real-world applications
+- 🎨 Passionate about UI/UX design, branding, and media editing
 - 🏅 Certified in **Artificial Intelligence**
-- ⚡ My motto: *one small coding step at a time* 
+- ⚡ Motto: *One small coding step at a time*
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github&theme=light"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=light"/>
-</p>
+### Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github&theme=light"/>
 
-<table align="center">
-<tr>
-<th> Development</th>
-<th> AI</th>
-<th> Design</th>
-</tr>
-<tr>
-<td>HTML, CSS, JavaScript<br>React, Node.js, MongoDB</td>
-<td>AI-powered apps<br>AI tools & projects</td>
-<td>Figma, Photoshop, Illustrator<br>Logos, posters, photo & video editing</td>
-</tr>
-</table>
+### Design & Creativity
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=light"/>
+
+</div>
 
 ---
 
-##  Featured Projects
+## 🌟 Featured Projects
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-###  CareerCraft AI
-AI-powered career companion & portfolio assistant.
+### 💼 CareerCraft AI
+An AI-powered career companion and portfolio assistant designed to help professionals grow.
 
 <a href="https://github.com/shaikhnehal1103/YOUR_REPO_1">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhnehal1103&repo=YOUR_REPO_1&theme=transparent&border_color=8B7BD8&title_color=7C5CD6&icon_color=8B7BD8"/>
@@ -68,8 +56,8 @@ AI-powered career companion & portfolio assistant.
 </td>
 <td width="50%" valign="top">
 
-###  Brew & Bloom Café
-Responsive café website with a clean, modern design.
+### ☕ Brew & Bloom Café
+A fully responsive, modern café website featuring a clean aesthetic and smooth layout.
 
 <a href="https://github.com/shaikhnehal1103/YOUR_REPO_2">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhnehal1103&repo=YOUR_REPO_2&theme=transparent&border_color=8B7BD8&title_color=7C5CD6&icon_color=8B7BD8"/>
@@ -81,7 +69,7 @@ Responsive café website with a clean, modern design.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaikhnehal1103&show_icons=true&hide_border=true&bg_color=F5F0FF&title_color=7C5CD6&icon_color=8B7BD8&text_color=555555&border_radius=12"/>
@@ -94,7 +82,7 @@ Responsive café website with a clean, modern design.
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/shaikhnehal1103"><img src="https://img.shields.io/badge/GitHub-8B7BD8?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -103,8 +91,10 @@ Responsive café website with a clean, modern design.
   <a href="https://www.facebook.com/share/1JVQYXQ3wt/"><img src="https://img.shields.io/badge/Facebook-8B7BD8?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
+<br>
+
 <p align="center">
-  <b> Better Code • Bigger Dreams</b>
+  <b>✨ Better Code • Bigger Dreams ✨</b>
 </p>
 
 <p align="center">
